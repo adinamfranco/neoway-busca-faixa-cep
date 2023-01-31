@@ -2,7 +2,7 @@
 ---
 # Introduction
 
-This project is a soluion to the [Neoway Data Pirates challenge]('https://github.com/NeowayLabs/jobs/blob/master/datapirates/challengePirates.md'). I consistts in fetching an HTML from [Correios]('https://www2.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm') and parsing to extract the postal codes ranges from a pre determined region. And store the results on a [JSONL]('https://jsonlines.org/') file.
+This project is a soluion to the [Neoway Data Pirates challenge](https://github.com/NeowayLabs/jobs/blob/master/datapirates/challengePirates.md). I consistts in fetching an HTML from [Correios](https://www2.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm) and parsing to extract the postal codes ranges from a pre determined region. And store the results on a [JSONL](https://jsonlines.org/) file.
 
 ---
 # Getting Started
@@ -13,10 +13,10 @@ These instructions will help you to get the project up and running on your local
 # Prerequisites
 
 - A computer with an internet connection
-- [git]('https://git-scm.com/downloads')
-- [Python 3.10.6]('https://www.python.org/downloads/release/python-3106/'), or any campatible version
-- [beautifulsoup4 ]('https://libraries.io/pypi/beautifulsoup4')
-- [requests]('https://pypi.org/project/requests/2.5.1/')
+- [git](https://git-scm.com/downloads)
+- [Python 3.10.6](https://www.python.org/downloads/release/python-3106/), or any campatible version
+- [beautifulsoup4 ](https://libraries.io/pypi/beautifulsoup4)
+- [requests](https://pypi.org/project/requests/2.5.1/)
 
 
 ---
@@ -68,17 +68,17 @@ A unit tes was writen to test thre main functions of the code: `req_faixa_cep()`
 
 List of tools and references used in this project
 
-- [Ubuntu]('https://ubuntu.com/')
-- [Visual Studio Code]('https://code.visualstudio.com/')
-- [HTML]('https://html.com/')
-- [Python]('https://www.python.org/')
-- [JSONL]('https://jsonlines.org/')
-- [Correios]('https://www2.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm')
+- [Ubuntu](https://ubuntu.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [HTML](https://html.com/)
+- [Python](https://www.python.org/)
+- [JSONL](https://jsonlines.org/)
+- [Correios](https://www2.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm)
 
 ---
 # Author
 
-Adinam Franco - [Github]('https://github.com/adinamfranco') - [Linkedin]('https://www.linkedin.com/in/adinamfranco/')
+Adinam Franco - [Github](https://github.com/adinamfranco) - [Linkedin](https://www.linkedin.com/in/adinamfranco/)
 
 ---
 
