@@ -2,7 +2,7 @@
 ---
 # Introduction
 
-This project is a soluion to the [Neoway Data Pirates challenge](https://github.com/NeowayLabs/jobs/blob/master/datapirates/challengePirates.md). I consistts in fetching an HTML from [Correios](https://www2.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm) and parsing to extract the postal codes ranges from a pre determined region. And store the results on a [JSONL](https://jsonlines.org/) file.
+This project is a solution to the [Neoway Data Pirates challenge](https://github.com/NeowayLabs/jobs/blob/master/datapirates/challengePirates.md). It consists in fetching an HTML from [Correios](https://www2.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm) and parsing to extract the postal codes ranges from a pre determined region. And store the results on a [JSONL](https://jsonlines.org/) file.
 
 ---
 # Getting Started
@@ -56,7 +56,7 @@ These instructions will help you to get the project up and running on your local
     ```
 ---
 # Testing
-A unit tes was writen to test thre main functions of the code: `req_faixa_cep()`, `num_max_row()` and `get_cep_list()`.
+A unit test was writen to test the main functions of the code: `req_faixa_cep()`, `num_max_row()` and `get_cep_list()`.
 
  To run the test:
 
